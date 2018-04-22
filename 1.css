@@ -12,11 +12,11 @@ body {
     margin: 0;
     padding: 0;
     /*overflow-y: auto;*/
-    overflow-x: hidden;
-    position: static!important;
+/*     overflow-x: hidden; */
+/*     position: static!important; */
 }
 .page {
-    position: static!important;
+/*     position: static!important; */
 }
 ul, li, p, h1, h2, h3, h4, h5, h6, dl, dt, dd {
     margin: 0;
